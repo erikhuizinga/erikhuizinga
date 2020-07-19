@@ -26,7 +26,7 @@ then
 	done
 	echo $latestVersion > $versionFile
 	git add -A
-	git commit -m "Update $simpleIcons to $latestVersion"
+	git commit -m "[AUTO] Update $simpleIcons to $latestVersion"
 	git push
 fi
 
