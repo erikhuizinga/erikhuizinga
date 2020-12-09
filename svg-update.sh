@@ -13,7 +13,7 @@ then
 	iconsUrl="$rawRepoUrl/icons"
 
 	# Add fill color to SVG, so that it works on white(ish) and black(ish) backgrounds
-	color="rgb(255,108,55)" # Source: Nedap Spark Orange (https://nedap.design/pages/color)
+	color="rgb(88,166,255)"
 	icons="flutter rust vim kotlin java android androidstudio visualstudiocode gnubash jetbrains apple windows linux python mathworks"
 	for icon in $icons
 	do
