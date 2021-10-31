@@ -3,6 +3,7 @@
 
 - 🔭 I try to create useful, free and open source software.
 - 🌱 I’m currently learning:
+   - [<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/simple-icons/jetbrains.svg" /> JetBrains Compose](https://github.com/JetBrains/compose-jb)
    - [<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/simple-icons/flutter.svg" /> Flutter](https://github.com/flutter/flutter)
    - [<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/simple-icons/rust.svg" /> Rust](https://github.com/rust-lang/rust)
    - [<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/simple-icons/vim.svg" /> Vim](https://github.com/vim/vim)
