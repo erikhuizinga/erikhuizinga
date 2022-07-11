@@ -14,7 +14,7 @@ then
 
 	# Add fill color to SVG, so that it works on white(ish) and black(ish) backgrounds
 	color="rgb(88,166,255)"
-	icons="flutter rust vim kotlin android androidstudio visualstudiocode gnubash jetbrains apple windows linux python mathworks"
+	icons="flutter rust vim kotlin android androidstudio visualstudiocode gnubash jetbrains apple windows linux python"
 	for icon in $icons
 	do
 		svgFile="$icon.svg"

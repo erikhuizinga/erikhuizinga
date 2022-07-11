@@ -12,7 +12,7 @@
    - 👾 I'm also eager to start learning creating pixel art.
 - 💬 Ask me about
 [<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/simple-icons/kotlin.svg" /> Kotlin](https://github.com/JetBrains/kotlin/),
-[<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/java/java.svg" /> Java](https://github.com/AdoptOpenJDK/)
+[<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/java.svg" /> Java](https://github.com/AdoptOpenJDK/)
 and
 [<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/simple-icons/android.svg" /> Android](https://github.com/android/).
 - 📫 How to reach me:
@@ -32,7 +32,7 @@ and
 - 💡 I also have experience with
 [<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/simple-icons/python.svg" /> Python](https://github.com/python)
 and
-[<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/simple-icons/mathworks.svg" /> MATLAB](https://github.com/mathworks).
+[<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/mathworks.svg" /> MATLAB](https://github.com/mathworks).
 I used MATLAB a lot in the data analyses that led to [this scientific research article](https://dx.doi.org/10.1136/bmjopen-2017-020162).
 - 😄 Pronouns: he, him, his.
 - 🎓 I studied [Technical Medicine](https://www.utwente.nl/en/tm/) and became a software engineer through
