@@ -12,7 +12,7 @@
    - 👾 I'm also eager to start learning creating pixel art.
 - 💬 Ask me about
 [<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/simple-icons/kotlin.svg" /> Kotlin](https://github.com/JetBrains/kotlin/),
-[<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/simple-icons/java.svg" /> Java](https://github.com/AdoptOpenJDK/)
+[<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/java/java.svg" /> Java](https://github.com/AdoptOpenJDK/)
 and
 [<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/simple-icons/android.svg" /> Android](https://github.com/android/).
 - 📫 How to reach me:
