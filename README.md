@@ -1,7 +1,7 @@
 ### Hi there! 👋
 ### My name is Erik
 
-- 🤖 I'm an Android developer at [<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/nedap/spark.svg" /> Nedap Healthcare](https://nedap-healthcare.com/werkenbij/).
+- 🤖 I'm an Android developer and data analyst at [<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/nedap/spark.svg" /> Nedap Healthcare](https://nedap-healthcare.com/werkenbij/).
 - 🔭 I try to create useful, free and open source software.
 - 🌱 I’m currently learning:
    - [<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/simple-icons/jetbrains.svg" /> JetBrains Compose](https://github.com/JetBrains/compose-jb)
