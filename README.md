@@ -38,6 +38,6 @@ I used MATLAB a lot in the data analyses that led to [this scientific research a
 - 🎓 I studied [Technical Medicine](https://www.utwente.nl/en/tm/) and became a software engineer through
   [<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/nedap/spark.svg" /> Nedap University](https://nedap.com/careers/nedap-university/).
   I gave an [interview](https://nedap.com/iets-met-software-ontwikkelen/) about this.
-- ⚡ Fun fact: I live with 12 others: my significant other 👱🏻‍♀️ plus 👶🏼, our dog 🐕 (Buzz Lightyear 🌠), two cats (Woody 🤠 and Bimba 🎀), two horses 🐴🐴 (Bo and Josje) and [three chickens 🐓🐓🐓](https://bit.ly/3jiTSRo)!
+- ⚡ Fun fact: I live with 11 others: my significant other 👱🏻‍♀️ plus 👧🏼 and 👶🏻, our dog 🐕 (Buzz Lightyear 🌠), two cats (Woody 🤠 and Bimba 🎀), two horses 🐴🐴 (Bo and Josje) and [three chickens 🐓🐓🐓](https://bit.ly/3jiTSRo)!
 
 ###### Various icons in this file have been modified from [Simple Icons](https://github.com/simple-icons/simple-icons) by a script in the [repo](https://github.com/erikhuizinga/erikhuizinga).
