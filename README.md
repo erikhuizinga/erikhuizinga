@@ -14,7 +14,7 @@
 and
 [<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/simple-icons/android.svg" /> Android](https://github.com/android/).
 - 📫 How to reach me:
-[in/erikhuizinga](https://linkedin.com/in/erikhuizinga)
+[in://erikhuizinga](https://linkedin.com/in/erikhuizinga)
 - 🛠 I mainly work with:
    - [<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/simple-icons/androidstudio.svg" /> Android Studio](https://developer.android.com/studio/)
    - [<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/simple-icons/visualstudiocode.svg" /> Visual Studio Code](https://github.com/Microsoft/vscode)
