@@ -17,13 +17,13 @@ and
 [in://erikhuizinga](https://linkedin.com/in/erikhuizinga)
 - 🛠 I mainly work with:
    - [<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/simple-icons/androidstudio.svg" /> Android Studio](https://developer.android.com/studio/)
-   - [<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/simple-icons/visualstudiocode.svg" /> Visual Studio Code](https://github.com/Microsoft/vscode)
+   - [<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/visualstudiocode.svg" /> Visual Studio Code](https://github.com/Microsoft/vscode)
    - [<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/simple-icons/gnubash.svg" /> Bash](https://www.gnu.org/software/bash/)
    - I like the
    [<img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/simple-icons/jetbrains.svg" /> JetBrains](https://github.com/jetbrains)
    tooling in general.
    - My daily driver is an <img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/simple-icons/apple.svg" />
-   Apple MacBook Pro, but I work just as comfortably with <img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/simple-icons/windows.svg" />
+   Apple MacBook Pro, but I work just as comfortably with <img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/windows.svg" />
    Windows and <img height="16" width="16" src="https://raw.githubusercontent.com/erikhuizinga/erikhuizinga/master/icons/simple-icons/linux.svg" />
    Linux machines.
    - 🌃 Dark UI themes 🌑
